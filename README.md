@@ -1,6 +1,6 @@
 # Đưa AI Agent lên Cloud: Kiến trúc, Workflow phức tạp & Kiểm định đầu ra
 
-Nov 14, 2026 · @Dang Tuan Anh NAVER VIETNAM
+Nov 14, 2026
 
 ## Tóm tắt
 
